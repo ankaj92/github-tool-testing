@@ -1,1 +1,1 @@
-flask==0.5  # Flask 0.5 has known vulnerabilities
+flask==2.2.5  # Flask 0.5 has known vulnerabilities
